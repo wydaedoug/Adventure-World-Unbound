@@ -168,9 +168,7 @@ A Minecraft Adventure Modpack with tons of cool features.
 [url-app-modrinth]: <https://modrinth.com/app>
 [url-discord]: <https://dc.gg/advntrwrld>
 [url-youtube]: <https://youtube.com/@wydaedoug>
-[url-modrinth]: <https://download.fo/modrinth>
-[url-options]: <https://wiki.download.fo/readme/changed-options>
-[url-rate]: <https://download.fo/rate>
+[url-modrinth]: <https://modrinth.com/project/1ob5lhR1>
 [url-contribute]: <https://download.fo/contribute>
 [url-website]: <https://download.fo>
 [url-wiki]: <https://download.fo/wiki>
