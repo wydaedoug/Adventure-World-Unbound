@@ -18,6 +18,7 @@ A Minecraft Adventure Modpack with tons of cool features.
 ## Download
 
 [![Modrinth][img-modrinth]][url-modrinth]
+> We are still working on the CurseForge page, so use the Modrinth link to download the Modpack.
 
 
 <!-- Images -->
