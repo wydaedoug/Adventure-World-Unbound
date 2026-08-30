@@ -9,7 +9,7 @@
 [![Read the Wiki][img-wiki]][url-wiki]
 
 [![Discord][img-discord]][url-discord]
-[![GitHub][img-github]][url-github]
+[![GitHub][img-youtube]][url-youtube]
 
 A Minecraft Adventure Modpack with tons of cool features.
 
@@ -156,7 +156,7 @@ A Minecraft Adventure Modpack with tons of cool features.
 
 <!-- Images -->
 [img-discord]: <https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white&link=discord.gg%2Fr4us6fxYyA>
-[img-github]: <https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white&link=www.youtube.com%2F%40wydaedoug>
+[img-youtube]: <https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white&link=www.youtube.com%2F%40wydaedoug>
 [img-modrinth]: <https://img.shields.io/badge/Modrinth-%2300af5c?style=for-the-badge&logo=Modrinth&logoColor=white&link=https%3A%2F%2Fmodrinth.com%2Fproject%2F1ob5lhR1>
 [img-options]: <https://img.shields.io/badge/Changed_Options-blue?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Ik00NDAtMTIwdi0yNDBoODB2ODBoMzIwdjgwSDUyMHY4MGgtODBabS0zMjAtODB2LTgwaDI0MHY4MEgxMjBabTE2MC0xNjB2LTgwSDEyMHYtODBoMTYwdi04MGg4MHYyNDBoLTgwWm0xNjAtODB2LTgwaDQwMHY4MEg0NDBabTE2MC0xNjB2LTI0MGg4MHY4MGgxNjB2ODBINjgwdjgwaC04MFptLTQ4MC04MHYtODBoNDAwdjgwSDEyMFoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D>
 [img-contribute]: <https://img.shields.io/badge/Support_and_Contribute-red?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Im00ODAtMTIwLTU4LTUycS0xMDEtOTEtMTY3LTE1N1QxNTAtNDQ3LjVRMTExLTUwMCA5NS41LTU0NFQ4MC02MzRxMC05NCA2My0xNTd0MTU3LTYzcTUyIDAgOTkgMjJ0ODEgNjJxMzQtNDAgODEtNjJ0OTktMjJxOTQgMCAxNTcgNjN0NjMgMTU3cTAgNDYtMTUuNSA5MFQ4MTAtNDQ3LjVRNzcxLTM5NSA3MDUtMzI5VDUzOC0xNzJsLTU4IDUyWiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==>
@@ -167,7 +167,7 @@ A Minecraft Adventure Modpack with tons of cool features.
 <!-- URLs -->
 [url-app-modrinth]: <https://modrinth.com/app>
 [url-discord]: <https://dc.gg/advntrwrld>
-[url-github]: <https://youtube.com/@wydaedoug>
+[url-youtube]: <https://youtube.com/@wydaedoug>
 [url-modrinth]: <https://download.fo/modrinth>
 [url-options]: <https://wiki.download.fo/readme/changed-options>
 [url-rate]: <https://download.fo/rate>
