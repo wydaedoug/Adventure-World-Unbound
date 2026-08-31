@@ -203,5 +203,5 @@ A Minecraft Adventure Modpack with tons of cool features.
 [url-youtube]: <https://youtube.com/@wydaedoug>
 [url-modrinth]: <https://modrinth.com/project/1ob5lhR1>
 [url-contribute]: <https://ko-fi.com/wydae>
-[url-website]: <https://app.notion.com/p/0791c79e2012435e8a648d3f355a2835?v=3cca8735a680806d9f52000cf37f6f57>
-[url-wiki]: <https://app.notion.com/p/0791c79e2012435e8a648d3f355a2835?v=3cca8735a680806d9f52000cf37f6f57>
+[url-website]: <https://flyn.co/adventureworldunbound>
+[url-wiki]: <https://notion-url-shortener.vercel.app/adventureworldunbound>
